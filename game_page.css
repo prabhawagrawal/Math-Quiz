@@ -1,0 +1,30 @@
+body{
+    background-color:Navy;
+}
+
+#q-turn_a-turn{
+    color: white;
+}
+
+#output{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #0062ff;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+
+#num_1{
+    width: 300px;
+    height: 35px;
+    border-radius: 15px;
+    border: 1px solid black;
+}
+
+#num_2{
+    width: 300px;
+    height: 35px;
+    border-radius: 15px;
+    border: 1px solid black;
+}
