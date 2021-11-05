@@ -1,0 +1,41 @@
+#heading{
+    margin-top: 100px;
+}
+
+#player-1{
+    border: black solid 1px;
+    border-radius: 10px;
+    width: 250px;
+    margin-left: -50px;
+}
+
+#section1{
+    border: black solid 1px;
+    border-radius: 10px;
+    width: 250px;
+}
+
+#text {
+    background:#f0f0ff;
+    border-radius: 10px;
+    border-top: 10px solid rgb(0, 0, 150);
+    padding: 3px;
+    float: none;
+    text-align: center;
+}
+
+#text2 {
+    background:#f0f0ff;
+    border-radius: 10px;
+    border-top: 10px solid red;
+    padding: 3px;
+    float: none;
+    text-align: center;
+}
+
+#player-2{
+    border: black solid 1px;
+    border-radius: 10px;
+    width: 250px;
+    margin-left: -50px;
+}
